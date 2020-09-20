@@ -1,0 +1,13 @@
+{
+  "name": "unique-symbol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "unional <homawong@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "ts-toolbelt": "^8.0.6"
+  }
+}
