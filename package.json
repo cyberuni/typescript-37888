@@ -8,6 +8,6 @@
     "typescript": "^4.0.3"
   },
   "dependencies": {
-    "ts-toolbelt": "^8.0.6"
+    "ts-toolbelt": "^9.0.0"
   }
 }
